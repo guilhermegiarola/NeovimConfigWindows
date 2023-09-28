@@ -14,4 +14,5 @@ Foi seguido o passo-a-passo, como explicado no vídeo presente em ```https://www
 - Baixar e instalar o Node.js: ```https://nodejs.org/en/download```
 - Atualizar as Variáveis de Ambiente: ```https://cursos.alura.com.br/forum/topico-node-o-termo-node-nao-e-reconhecido-como-nome-de-cmdlet-193074```
 - Instalar os plugins com ```:PlugInstall```.
+- Instalar o MinGW via Chocolatey (precisa de permissão de administrador): ```https://www.liquidweb.com/kb/how-to-install-chocolatey-on-windows/``` e ```https://www.reddit.com/r/neovim/comments/14oozmu/neovim_cant_find_c_compiler/```
 - Reiniciar o NeoVim.
