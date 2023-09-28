@@ -1,0 +1,5 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "coc.preferences.formatOnSaveFiletypes": ["javascript","css","javascriptreact", "typescript", "typescriptreact"]
+}

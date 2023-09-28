@@ -1,0 +1,15 @@
+{
+	"eslint.autoFixOnSave": true,
+	"codeLens.enable": true,
+	"java.referencesCodeLens.enabled": true,
+	"java.jdt.ls.vmargs": "-javaagent:/usr/local/share/lombok/lombok.jar",
+
+	//autoformat
+	"coc.preferences.formatOnSaveFiletypes": [
+		"css",
+		"typescript",
+		"javascript",
+		"java",
+		"go"
+	]
+}

@@ -1,0 +1,10 @@
+source $HOME\AppData\Local\nvim\vim-plug\plugins.vim
+source $HOME\AppData\Local\nvim\key-bindings.vim
+source $HOME\AppData\Local\nvim\settings.vim
+source $HOME\AppData\Local\nvim\plug-config\airline.vim
+source $HOME\AppData\Local\nvim\plug-config\catpuccin.vim
+source $HOME\AppData\Local\nvim\plug-config\coc.vim
+source $HOME\AppData\Local\nvim\plug-config\lualine.vim
+source $HOME\AppData\Local\nvim\plug-config\noice.vim
+source $HOME\AppData\Local\nvim\plug-config\telescope.vim
+luafile $HOME\AppData\Local\nvim\plug-config\nvim-treesitter.vim
