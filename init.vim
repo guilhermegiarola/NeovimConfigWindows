@@ -7,4 +7,4 @@ source $HOME\AppData\Local\nvim\plug-config\coc.vim
 source $HOME\AppData\Local\nvim\plug-config\lualine.vim
 source $HOME\AppData\Local\nvim\plug-config\noice.vim
 source $HOME\AppData\Local\nvim\plug-config\telescope.vim
-luafile $HOME\AppData\Local\nvim\plug-config\nvim-treesitter.vim
+luafile $HOME\AppData\Local\nvim\plug-config\nvim-treesitter.lua
