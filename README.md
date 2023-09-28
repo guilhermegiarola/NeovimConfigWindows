@@ -11,5 +11,7 @@ Foi seguido o passo-a-passo, como explicado no vídeo presente em ```https://www
 - Gerar um Personal Access Token para que se possa fazer acesso ao GitHub.
 - Configurar a Credencial do Windows segundo o seguinte link: ```https://www.alura.com.br/artigos/nova-exigencia-do-git-de-autenticacao-por-token-o-que-e-o-que-devo-fazer```.
 - Instalar o gerenciador de Plugins vim-plug: ```https://github.com/junegunn/vim-plug```
+- Baixar e instalar o Node.js: ```https://nodejs.org/en/download```
+- Atualizar as Variáveis de Ambiente: ```https://cursos.alura.com.br/forum/topico-node-o-termo-node-nao-e-reconhecido-como-nome-de-cmdlet-193074```
 - Instalar os plugins com ```:PlugInstall```.
 - Reiniciar o NeoVim.
